@@ -2,7 +2,9 @@
 Projeto com base em simular uma página web responsiva de um sistema financeiro, colocando em prática todos conceitos em html, css e bootstrap, senso assim, totalmente responsivo.
 
 Link para verificação: https://finansoficial.netlify.app/
+
 Layout no desktop
+
 ![image](https://user-images.githubusercontent.com/54048170/139283299-053c24c1-321e-4101-a4c6-3b0b78ec2f3b.png)
 
 ![image](https://user-images.githubusercontent.com/54048170/139283321-7db536a8-ab08-4e8a-b9d8-65a97ea15a5c.png)
